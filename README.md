@@ -1,15 +1,16 @@
 # LearnNodeJs
 Demo Task
 
-Firstly Stripe Api is used for payment method integration
-Index.js
+App.js
 
 # To Run the Project:
 Npm init
 Npm i express
 Npm ejs
 Npm Nodemon
-Npm Stripe
+npm install express-hbs --save
+npm install express express-validator --save
+npm install mongodb --save
 
 # For testing
 For sample card numbers
